@@ -1,0 +1,33 @@
+{
+  "id": "871b1338-e04b-4384-b6f8-509ea0c40e6f",
+  "name": "translationApp",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "ec199985-c68f-4843-9a56-a338e01e62fa",
+      "publisher": "Default",
+      "name": "customApp",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://translationApp.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0",
+  "features": ["TranslationFile"]
+}
